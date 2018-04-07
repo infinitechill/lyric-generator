@@ -12,7 +12,6 @@ the results are dumped to output text file.
 args:
 -c --credentials Path to the credentials file
 -a --artist Name of the artist
--l --lyrics Path to the output lyrics file
 -o --output Path to the output new lyrics file
 -s --start Start word
 -n --number Number of words
